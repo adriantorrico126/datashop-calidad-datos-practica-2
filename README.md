@@ -7,7 +7,8 @@ Solución reproducible para la **Práctica 2, Unidad 1** de Minería de Datos. E
 ## Entregables
 
 - `analisis_datashop.ipynb`: desarrollo en Python, listo para Google Colab.
-- `RESPUESTAS_CLASS_NOTEBOOK.md`: redacción y respuestas para copiar en Class Notebook de Teams.
+- `Redaccion_Class_Notebook_DataShop.docx`: redacción con formato Word, preparada para copiar y pegar en Class Notebook de Teams.
+- `RESPUESTAS_CLASS_NOTEBOOK.md`: fuente de texto de respaldo.
 - `customers.csv`: fuente original proporcionada para la práctica.
 
 ## Ejecutar en Google Colab

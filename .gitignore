@@ -7,6 +7,8 @@ venv/
 
 # Generated artifacts (reproducible from the notebook)
 outputs/
+.qa_class_notebook/
+.rendered_class_notebook/
 
 # Local editor settings
 .vscode/
