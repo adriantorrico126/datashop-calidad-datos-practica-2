@@ -2,6 +2,8 @@
 
 Solución reproducible para la **Práctica 2, Unidad 1** de Minería de Datos. El proyecto evalúa, limpia y visualiza el conjunto `customers.csv` antes de cualquier técnica de segmentación.
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adriantorrico126/datashop-calidad-datos-practica-2/blob/main/analisis_datashop.ipynb)
+
 ## Entregables
 
 - `analisis_datashop.ipynb`: desarrollo en Python, listo para Google Colab.
@@ -39,4 +41,3 @@ No se sobrescribe el archivo fuente. El notebook conserva una copia (`df_origina
 ## Reproducibilidad
 
 El análisis utiliza Python, pandas, NumPy, Matplotlib y Seaborn. Las versiones mínimas están declaradas en `requirements.txt`.
-
