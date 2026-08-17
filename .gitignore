@@ -9,6 +9,7 @@ venv/
 outputs/
 .qa_class_notebook/
 .rendered_class_notebook/
+.class_notebook_assets/
 
 # Local editor settings
 .vscode/
